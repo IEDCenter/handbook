@@ -1,0 +1,24 @@
+.book .book-body .page-wrapper .page-inner section.normal a.glossary-term {
+  color: green;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal img {
+  margin-top: 5px;
+  border: 1px solid #c0c0c0;
+}
+
+iframe.slack {
+  border: 0;
+  overflow-y: hidden;
+  width: 400px;
+  height: 400px;
+  margin-left: -50px;
+}
+
+.book-header h1 a {
+  display: none; 
+}
+
+a.plugin-anchor span {
+  font-size: 15px !important;
+}

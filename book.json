@@ -1,0 +1,21 @@
+{
+  "gitbook": "2.x.x",
+  "title": "The Startup Village Playbook",
+  "description": "How to become an entrepreneur & learn life lessons via building great companies and products.",
+  "language": "en",
+  "structure": {
+    "readme": "0-introduction.md"
+  },
+  "plugins": ["github", "addcssjs", "anchors"],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/svlabs/playbook"
+    },
+    "addcssjs": {
+      "js": ["js/inspectlet.js"]
+    }
+  },
+  "styles": {
+    "website": "css/sv.css"
+  }
+}
